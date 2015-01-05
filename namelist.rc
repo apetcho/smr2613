@@ -1,0 +1,4 @@
+gcomp1_tile: 2 6
+gcomp1_grid: proc/atm_grd.nc
+gcomp2_tile: 2 6 
+gcomp2_grid: proc/ocn_grd.nc
